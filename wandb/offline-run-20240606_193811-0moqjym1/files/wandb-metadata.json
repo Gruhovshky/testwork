@@ -1,0 +1,168 @@
+{
+    "os": "Linux-5.15.0-107-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-06-06T11:38:11.948443",
+    "startedAt": "2024-06-06T11:38:11.811888",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "detect",
+        "train",
+        "data=3.dataset.yaml",
+        "model=4.yolov8n.pt",
+        "epochs=100",
+        "device=0"
+    ],
+    "state": "running",
+    "program": "/home/ker/.local/bin/yolo",
+    "codePathLocal": null,
+    "host": "ubuntu",
+    "username": "ker",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3.06225,
+        "min": 1200.0,
+        "max": 3100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 2.644,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        },
+        {
+            "current": 3.1,
+            "min": 1200.0,
+            "max": 3100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 97.87200164794922,
+            "used": 33.814903259277344
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1060 3GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1060 3GB",
+            "memory_total": 3221225472
+        }
+    ],
+    "memory": {
+        "total": 31.183616638183594
+    }
+}

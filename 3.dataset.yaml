@@ -1,0 +1,10 @@
+train: D:\Pycharmfilespace\findgirl\train
+val: D:\Pycharmfilespace\findgirl\val
+train_labels: D:\Pycharmfilespace\findgirl\train
+val_labels: D:\Pycharmfilespace\findgirl\val
+
+nc: 1
+
+names: [
+  "pretty",
+  ]
